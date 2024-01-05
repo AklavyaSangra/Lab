@@ -1,4 +1,4 @@
-
+Write a c code to give feedback to the students by taking their grades as user input without break.
 
 
 #include<stdio.h>
