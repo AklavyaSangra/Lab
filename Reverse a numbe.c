@@ -1,4 +1,4 @@
-
+//Write a c program for reversing a number .
 
 
 #include <stdio.h>
