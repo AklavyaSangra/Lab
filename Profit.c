@@ -23,7 +23,4 @@ Write a C program to know whether a shopkeeper has made a profit or loss.
     }
 
 
-Output of the program:
 
-
-![image](https://github.com/AklavyaSangra/Lab/assets/146859465/b9859056-e02f-41d5-af9e-d3e4c5b8e6d5)
